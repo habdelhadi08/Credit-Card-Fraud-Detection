@@ -1,12 +1,12 @@
-# 💳 Credit Card Fraud Detection Using Advanced Data Augmentation
+💳 Credit Card Fraud Detection Using Advanced Data Augmentation
 
-## 🧠 Overview
+🧠 Overview
 
 This project focuses on enhancing credit card fraud detection through the use of **state-of-the-art data augmentation techniques** to tackle dataset imbalance—a major challenge in fraud analytics. The implementation leverages synthetic data generation to improve model generalization, aiming to deliver an ethical, scalable, and high-performance fraud detection pipeline.
 
 ---
 
-## 🧾 Project Structure
+🧾 Project Structure
 
 ```bash
 .
