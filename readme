@@ -47,7 +47,7 @@ Please refer to your learning platform or official resources to access the datas
 
   - pandas, numpy – Data manipulation
 
-  - matplotlib, seaborn – Visualization
+  - plotly – Visualization
 
   - scikit-learn – Machine learning and preprocessing
 
@@ -109,7 +109,7 @@ Transparency: All modeling steps documented and explainable.
 ✅ presentation.txt: Executive summary of findings and comparative analysis
 
 🏁 Conclusion
-This project showcases how cutting-edge data augmentation techniques—such as SMOTE and ADASYN—can significantly enhance credit card fraud detection in highly imbalanced datasets. The trained model is production-ready and suitable for parallel deployment alongside the existing system. This approach enables safe, real-time performance comparison without disrupting current operations or requiring changes to infrastructure
+This project showcases how cutting-edge data augmentation techniques—such as SMOTE and ADASYN—can significantly enhance credit card fraud detection in highly imbalanced datasets. The trained model is production-ready and suitable for parallel deployment alongside the existing system. This approach enables safe, real-time performance comparison without disrupting current operations or requiring changes to infrastructure.
 
 📬 Contact
 Data Scientist: Heba Abdelhadi
